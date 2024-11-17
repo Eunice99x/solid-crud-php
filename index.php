@@ -14,3 +14,5 @@ require 'services/UserService.php';
         $email = $_POST['email'];
         $userService->createUser($name, $email);
     }
+
+    // test arch linux git setup
